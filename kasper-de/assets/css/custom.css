@@ -1,0 +1,18 @@
+body,
+p,
+.main-nav a,
+.subscribe-button,
+.post-meta,
+.read-next-story .post:before,
+.pagination,
+.site-footer {
+    font-family: "IBM Plex Sans", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "IBM Plex Serif", serif;
+}
+
+[class^="icon-"]:before, [class*=" icon-"]:before {
+    font-family: "caspar-icons", "Open Sans", sans-serif;
+}
