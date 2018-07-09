@@ -1,16 +1,21 @@
 body,
-p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
 .main-nav a,
 .subscribe-button,
 .post-meta,
 .read-next-story .post:before,
 .pagination,
 .site-footer {
-    font-family: "IBM Plex Sans", sans-serif;
+    font-family: "Lato", sans-serif;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: "IBM Plex Serif", serif;
+p {
+    font-family: "Merriweather", serif;
 }
 
 [class^="icon-"]:before, [class*=" icon-"]:before {
