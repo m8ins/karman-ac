@@ -1,8 +1,8 @@
 {
     "name": "kasper-de",
     "description": "The theme of Kármán Hochschulzeitung (karman-ac.de). Based on Casper by Ghost",
-    "demo": "https://demo.ghost.io",
-    "version": "2.3.2",
+    "demo": "https://test.karman-ac.de",
+    "version": "0.2",
     "engines": {
         "ghost": ">=1.2.0"
     },

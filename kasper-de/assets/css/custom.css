@@ -1,4 +1,5 @@
 body,
+p,
 h1,
 h2,
 h3,
@@ -14,8 +15,10 @@ h6,
     font-family: "Lato", sans-serif;
 }
 
-p {
-    font-family: "Merriweather", serif;
+
+figcaption {
+    font-family: "Lato", sans-serif;
+    color: #5D687A;
 }
 
 [class^="icon-"]:before, [class*=" icon-"]:before {
